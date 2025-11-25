@@ -1,0 +1,6 @@
+Faker
+openpyxl
+oracledb
+pandas
+python-dotenv
+jinja2
