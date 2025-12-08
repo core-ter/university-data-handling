@@ -33,7 +33,7 @@ This project demonstrates a comprehensive data management system implemented in 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/data-handling.git
+   git clone https://github.com/core-ter/data-handling.git
    cd data-handling
    ```
 
