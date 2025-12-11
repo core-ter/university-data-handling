@@ -4,7 +4,7 @@
 
 This project demonstrates a comprehensive data management system implemented in Python. It generates realistic test data, manages relationships between entities (Person, Department, Project), and handles data persistence across multiple formats including CSV, JSON, Excel, and Oracle Database.
 
-## ✨ Features
+## Features
 
 - **Realistic Data Generation**: Uses `Faker` to generate thousands of records with meaningful relationships.
 - **Multi-Format Support**:
@@ -21,7 +21,7 @@ This project demonstrates a comprehensive data management system implemented in 
   - Features interactive dropdowns for department filtering.
   - Visualizes budget metrics and employee distributions.
 
-## 🚀 Getting Started
+## Getting Started
 
 ### Prerequisites
 
@@ -67,7 +67,7 @@ This will:
 3. Upload data to Oracle DB (if configured).
 4. Generate the interactive `stats.html` report.
 
-## 📂 Project Structure
+## Project Structure
 
 ```
 src/
@@ -81,7 +81,7 @@ src/
 └── main.py             # Entry point
 ```
 
-## 📊 Statistics Demo
+## Statistics Demo
 
 The project generates an interactive HTML dashboard allowing you to explore department data and project metrics in real-time.
 
